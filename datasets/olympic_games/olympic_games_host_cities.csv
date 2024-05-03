@@ -1,0 +1,77 @@
+City,City,Country,Year,Region,Summer,Winter,"Opening
+ ceremony","Closing
+ ceremony",Ref
+,Athens,Greece,1896,Europe,S005I,,6 April 1896,15 April 1896,
+,Paris,France,1900,Europe,S005II,,14 May 1900,28 October 1900,
+,St. Louis,United States,1904,North America,S005III,,1 July 1904,23 November 1904,
+,London,United Kingdom,1908,Europe,S005IV,,27 April 1908,31 October 1908,
+,Stockholm,Sweden,1912,Europe,S005V,,6 July 1912,22 July 1912,
+†,Berlin,Germany,1916,Europe,S006VI,,Cancelled due to WWI,Cancelled due to WWI,
+,Antwerp,Belgium,1920,Europe,S007VII,,14 August 1920,12 September 1920,
+,Chamonix,France,1924,Europe,,W001I,25 January 1924,5 February 1924,
+,Paris,France,1924,Europe,S008VIII,,5 July 1924,27 July 1924,
+,St. Moritz,Switzerland,1928,Europe,,W002II,11 February 1928,19 February 1928,
+,Amsterdam,Netherlands,1928,Europe,S009IX,,28 July 1928,12 August 1928,
+,Lake Placid,United States,1932,North America,,W003III,4 February 1932,13 February 1932,
+,Los Angeles,United States,1932,North America,S010X,,30 July 1932,14 August 1932,
+,Garmisch-Partenkirchen,Germany,1936,Europe,,W004IV,6 February 1936,16 February 1936,
+,Berlin,Germany,1936,Europe,S011XI,,1 August 1936,16 August 1936,
+†,"Sapporo
+Garmisch-Partenkirchen","Japan
+ Germany",1940,"Asia
+Europe",,W005aV,Cancelled due to WWII,Cancelled due to WWII,
+†,"Tokyo
+Helsinki","Japan
+ Finland",1940,"Asia
+Europe",S012XII,,Cancelled due to WWII,Cancelled due to WWII,
+†,Cortina d'Ampezzo,Italy,1944,Europe,,W005bV,Cancelled due to WWII,Cancelled due to WWII,
+†,London,United Kingdom,1944,Europe,S013XIII,,Cancelled due to WWII,Cancelled due to WWII,
+,St. Moritz,Switzerland,1948,Europe,,W005cV,30 January 1948,8 February 1948,
+,London,United Kingdom,1948,Europe,S014XIV,,29 July 1948,14 August 1948,
+,Oslo,Norway,1952,Europe,,W006VI,14 February 1952,25 February 1952,
+,Helsinki,Finland,1952,Europe,S015XV,,19 July 1952,3 August 1952,
+,Cortina d'Ampezzo,Italy,1956,Europe,,W007VII,26 January 1956,5 February 1956,
+,"Melbourne
+Stockholm","Australia
+ Sweden",1956,"Oceania
+Europe",S016XVI,,"10 June 1956
+22 November 1956","17 June 1956
+8 December 1956",
+,Squaw Valley,United States,1960,North America,,W008VIII,18 February 1960,28 February 1960,
+,Rome,Italy,1960,Europe,S017XVII,,25 August 1960,11 September 1960,
+,Innsbruck,Austria,1964,Europe,,W009IX,29 January 1964,9 February 1964,
+,Tokyo,Japan,1964,Asia,S018XVIII,,10 October 1964,24 October 1964,
+,Grenoble,France,1968,Europe,,W010X,6 February 1968,18 February 1968,
+,Mexico City,Mexico,1968,North America,S019XIX,,12 October 1968,27 October 1968,
+,Sapporo,Japan,1972,Asia,,W011XI,3 February 1972,13 February 1972,
+,Munich,West Germany,1972,Europe,S020XX,,26 August 1972,11 September 1972,
+,Innsbruck,Austria,1976,Europe,,W012XII,4 February 1976,15 February 1976,
+,Montreal,Canada,1976,North America,S021XXI,,17 July 1976,1 August 1976,
+,Lake Placid,United States,1980,North America,,W013XIII,13 February 1980,24 February 1980,
+,Moscow,Soviet Union,1980,Europe,S022XXII,,19 July 1980,3 August 1980,
+,Sarajevo,Yugoslavia,1984,Europe,,W014XIV,8 February 1984,19 February 1984,
+,Los Angeles,United States,1984,North America,S023XXIII,,28 July 1984,12 August 1984,
+,Calgary,Canada,1988,North America,,W015XV,13 February 1988,28 February 1988,
+,Seoul,South Korea,1988,Asia,S024XXIV,,17 September 1988,2 October 1988,
+,Albertville,France,1992,Europe,,W016XVI,8 February 1992,23 February 1992,
+,Barcelona,Spain,1992,Europe,S025XXV,,25 July 1992,9 August 1992,
+,Lillehammer,Norway,1994,Europe,,W017XVII,12 February 1994,27 February 1994,
+,Atlanta,United States,1996,North America,S026XXVI,,19 July 1996,4 August 1996,
+,Nagano,Japan,1998,Asia,,W018XVIII,7 February 1998,22 February 1998,
+,Sydney,Australia,2000,Oceania,S027XXVII,,15 September 2000,1 October 2000,
+,Salt Lake City,United States,2002,North America,,W019XIX,8 February 2002,24 February 2002,
+,Athens,Greece,2004,Europe,S028XXVIII,,13 August 2004,29 August 2004,
+,Turin,Italy,2006,Europe,,W020XX,10 February 2006,26 February 2006,
+,Beijing,China,2008,Asia,S029XXIX,,8 August 2008,24 August 2008,
+,Vancouver,Canada,2010,North America,,W021XXI,12 February 2010,28 February 2010,
+,London,United Kingdom,2012,Europe,S030XXX,,27 July 2012,12 August 2012,
+,Sochi,Russia,2014,Europe,,W022XXII,7 February 2014,23 February 2014,
+,Rio de Janeiro,Brazil,2016,South America,S031XXXI,,5 August 2016,21 August 2016,
+,Pyeongchang,South Korea,2018,Asia,,W023XXIII,9 February 2018,25 February 2018,
+§,Tokyo,Japan,2020,Asia,S032XXXII,,23 July 2021,8 August 2021,
+,Beijing,China,2022,Asia,,W024XXIV,4 February 2022,20 February 2022,
+,Paris,France,2024,Europe,S033XXXIII,,26 July 2024,11 August 2024,
+,Milan–Cortina d'Ampezzo,Italy,2026,Europe,,W025XXV,6 February 2026,22 February 2026,
+,Los Angeles,United States,2028,North America,S034XXXIV,,14 July 2028,30 July 2028,
+,TBD,TBD,2030,TBD,,W026XXVI,8 February 2030,24 February 2030,
+,Brisbane,Australia,2032,Oceania,S035XXXV,,23 July 2032,8 August 2032,
