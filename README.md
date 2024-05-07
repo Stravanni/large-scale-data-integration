@@ -11,8 +11,8 @@
 **Objective**:
 Students will have the flexibility to choose between two project options:
 
-Evaluation of Data Integration Techniques: Students will evaluate a set of data integration techniques on a dataset/domain of their choice.
-Evaluation and Comparison of Data Integration Techniques: Students will conduct an experimental evaluation and comparison of multiple data integration techniques on known benchmarks (i.e., by employing the datasets employed in the referenced papers).
+1. Evaluation of Data Integration Techniques: Students will evaluate a set of data integration techniques on a dataset/domain of their choice.
+2. Evaluation and Comparison of Data Integration Techniques: Students will conduct an experimental evaluation and comparison of multiple data integration techniques on known benchmarks (i.e., by employing the datasets employed in the referenced papers).
 
 **Assignment Guidelines**:
 
